@@ -1,0 +1,13 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "laurajochim/roundR: Version 0.2.0 - First release",
+  author   = "Laura Jochim",
+  year     = "2025",
+  doi      = "DOI: 10.5281/zenodo.14715372",
+  url      = "github.com/laurajochim/roundR",
+  textVersion = paste(
+"Jochim L., (2023). laurajochim/roundR: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. DOI: 10.5281/zenodo.14715372"
+  )
+)
